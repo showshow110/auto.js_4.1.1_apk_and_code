@@ -12,8 +12,6 @@
 
   官方博客: https://blog.autojs.org
 
-- [AutoJs6](https://github.com/SuperMonster003/AutoJs6) 基于 auto.js 4.1.1 修复了很多遗留问题，可以考虑使用这个版本，跟 4.1.1 可以同时安装
-
 - [Autox.js](https://github.com/kkevsekk1/AutoX) 基于 4.1.1 持续开发，可以考虑通过这个版本进行学习，都差不多
 
 - [其他版本 - 破解版 apk 下载](https://github.com/dengzemiao/auto.js)
